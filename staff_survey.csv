@@ -1,0 +1,21 @@
+employee_id,full_name,department,job_grade,start_date,salary,days_absent,performance_score,training_completed,left_organisation
+E001,Alice Morgan,Finance,Grade 3,12/04/2019,£42000,3,4,Yes,No
+E002,james hill,HR,Grade 2,03/09/2021,£31000,7,3,Yes,No
+E003,DAVID OSEI,Technology,Grade 4,17/06/2018,£58000,1,5,Yes,No
+E004,Priya Nair,Finance,Grade 3,25/11/2020,£43500,2,4,No,No
+E005,Rachel Byrne,Operations,Grade 2,08/02/2022,£29500,12,2,No,No
+E006,Tom   Fletcher,Technology,Grade 5,14/03/2017,£74000,0,5,Yes,No
+E007,Kwame Asante,HR,Grade 1,30/07/2023,£24000,4,3,No,No
+E008,Sandra Liu,Operations,grade 3,19/01/2020,£38000,999,4,Yes,No
+E009,Marcus Webb,Finance,Grade 4,22/08/2016,£61500,2,5,Yes,No
+E010,Ingrid Solberg,Technology,Grade 2,2021-05-11,£33000,6,3,Yes,No
+E011,Fatima Hassan,HR,Grade 1,01/12/2022,£23500,9,2,No,No
+E012,Barry  Trent,Operations,Grade 3,15/06/2019,£37000,3,4,No,No
+E013,Chloe Park,Finance,Grade 2,07/10/2021,£32000,5,3,Yes,No
+E014,Niall Doyle,Technology,Grade 5,28/02/2015,£81000,1,5,Yes,No
+E015,grace okonkwo,Operations,Grade 2,13/04/2023,£28000,8,2,No,Yes
+E016,Michael Cross,HR,Grade 3,09/11/2018,£39500,4,4,Yes,No
+E017,Yuki Sato,Finance,Grade 4,21/03/2020,£55000,0,5,Yes,No
+E018,Leon Baptiste,Technology,Grade 3,16/09/2021,£44000,6,3,No,No
+E019,Hannah Reid,Operations,Grade 1,04/06/2023,£22500,11,2,No,Yes
+E020,Amir Farooq,Finance,Grade 5,18/12/2014,£88000,1,5,Yes,No
