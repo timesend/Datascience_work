@@ -1,0 +1,41 @@
+order_id|customer_name|customer_email|customer_region|order_date|dispatch_date|product_name|product_category|quantity|unit_price|total_value|discount_applied|sales_rep|delivery_status|customer_rating
+ORD001|James Fletcher|james.fletcher@email.com|North West|14/03/2023|16/03/2023|Wireless Keyboard|Peripherals|2|£29.99|£59.98|No|Sarah Okafor|Delivered|5
+ORD002|Liu Wei|liu.wei@email.com|London|2023-03-15|2023-03-17|USB-C Hub|Peripherals|1|£44.99|£44.99|No|Marcus Reid|Delivered|4
+ORD003|Patricia Okonkwo|p.okonkwo@email.com|South East|17.03.2023|20.03.2023|Laptop Stand|Accessories|3|£24.99|£74.97|Yes|Sarah Okafor|Delivered|5
+ORD004|Derek Hussain|derek.hussain@email.com|Yorkshire|18/03/2023|21/03/2023|Mechanical Keyboard|Peripherals|1|£89.99|£89.99|No|James Thornton|Delivered|3
+ORD005|Amelia Santos|amelia.santos@email.com|South West|March 19 2023|March 22 2023|Monitor Arm|Accessories|2|£54.99|£109.98|Yes|Marcus Reid|Delivered|4
+ORD006|Robert Singh|robert.singh@email.com|East Midlands|20/03/2023|24/03/2023|Webcam HD|Peripherals|1|£79.99|£79.99|No|James Thornton|Delivered|
+ORD007|Yuki Tanaka|yuki.tanaka@email.com|London|21/03/2023|23/03/2023|Desk Lamp LED|Accessories|4|£19.99|£79.96|No|Sarah Okafor|Delivered|5
+ORD008|BRIAN WALSH|BRIAN.WALSH@EMAIL.COM|NORTH EAST|22/03/2023|26/03/2023|Noise Cancelling Headphones|Audio|1|£149.99|£149.99|Yes|Marcus Reid|Delivered|4
+ORD009|Fatima Al-Rashid|f.alrashid@email.com|London|23/03/2023|25/03/2023|USB-C Hub|Peripherals|2|£44.99|£89.98|No|Sarah Okafor|Delivered|5
+ORD010|kevin murphy|kevin.murphy@email.com|west midlands|24/03/2023|28/03/2023|Ergonomic Mouse|Peripherals|1|£39.99|£39.99|No|James Thornton|Delivered|4
+ORD011|Sandra Eriksson|s.eriksson@email.com|Scotland|25/03/2023|29/03/2023|Laptop Stand|Accessories|2|£24.99|£49.98|Yes|Marcus Reid|Delivered|3
+ORD012|Mohammed Al-Farsi|m.alfarsi@email.com|South East|26/03/2023||Mechanical Keyboard|Peripherals|1|£89.99|£89.99|No|Sarah Okafor|Pending|
+ORD013|Claire Beaumont|claire.beaumont@email.com|London|27/03/2023|29/03/2023|Wireless Keyboard|Peripherals|3|£29.99|£89.97|No|James Thornton|Delivered|4
+ORD014|Tariq Mahmood|tariq.mahmood@email.com|Yorkshire|28/03/2023|01/04/2023|Monitor Arm|Accessories|1|£54.99|£54.99|No|Marcus Reid|Delivered|5
+ORD015|Helen Fitzgerald|helen.fitz@email.com|East Midlands|29/03/2023|02/04/2023|Webcam HD|Peripherals|2|£79.99|£159.98|Yes|Sarah Okafor|Delivered|4
+ORD016|Aleksander Nowak|a.nowak@email.com|London|30/03/2023|03/04/2023|Desk Lamp LED|Accessories|1|£19.99|£19.99|No|James Thornton|Delivered|
+ORD017|Ngozi Adeyemi|ngozi.adeyemi@email.com|South East|31/03/2023|04/04/2023|Noise Cancelling Headphones|Audio|2|£149.99|£299.98|No|Marcus Reid|Delivered|5
+ORD018|James Fletcher|james.fletcher@email.com|North West|01/04/2023|03/04/2023|Ergonomic Mouse|Peripherals|1|£39.99|£39.99|Yes|Sarah Okafor|Delivered|4
+ORD019|Daniel Kowalski|d.kowalski@email.com|Scotland|04-02-2023|04-05-2023|USB-C Hub|Peripherals|3|44.99|£134.97|No|James Thornton|Delivered|3
+ORD020|Sunita Patel|sunita.patel@email.com|East Midlands|03/04/2023|07/04/2023|Laptop Stand|Accessories|1|£24.99|£24.99|No|Marcus Reid|Delivered|5
+ORD021|Barry  Thompson|barry.thompson@email.com|North West|04/04/2023|08/04/2023|Mechanical Keyboard|Peripherals|2|£89.99|£179.98|Yes|Sarah Okafor|Delivered|4
+ORD022|Elena Vasquez|e.vasquez@email.com|London|05/04/2023|07/04/2023|Monitor Arm|Accessories|1|£54.99|£54.99|No|James Thornton|Delivered|5
+ORD023|Ravi Chandrasekaran|ravi.c@email.com|South West|06/04/2023|10/04/2023|Wireless Keyboard|Peripherals|4|£29.99|£119.96|No|Marcus Reid|Delivered|3
+ORD024|Christine O'Brien|c.obrien@email.com|Wales|07/04/2023|11/04/2023|Webcam HD|Peripherals|1|£79.99|£79.99|Yes|Sarah Okafor|Delivered|4
+ORD025|stefan müller|stefan.muller@email.com|London|08/04/2023|10/04/2023|Desk Lamp LED|Accessories|3|£19.99|£59.97|No|James Thornton|Delivered|5
+ORD026|Paul Nkemdirim|paul.nk@email.com|South East|09/04/2023||Noise Cancelling Headphones|Audio|1|£149.99|£149.99|No|Marcus Reid|Pending|
+ORD027|Anna Lindqvist|anna.l@email.com|Scotland|10/04/2023|14/04/2023|Ergonomic Mouse|Peripherals|2|£39.99|£79.98|Yes|Sarah Okafor|Delivered|4
+ORD028|Michael Osei|m.osei@email.com|North East|April 11 2023|April 15 2023|USB-C Hub|Peripherals|1|£44.99|£44.99|No|James Thornton|Delivered|3
+ORD029|Layla Hassan|layla.hassan@email.com|South East|12/04/2023|15/04/2023|Laptop Stand|Accessories|2|£24.99|£49.98|No|Marcus Reid|Delivered|5
+ORD030|DEREK HUSSAIN|DEREK.HUSSAIN@EMAIL.COM|YORKSHIRE|18/03/2023|21/03/2023|Mechanical Keyboard|Peripherals|1|£89.99|£89.99|No|James Thornton|Delivered|3
+ORD031|Priya Bhatia|priya.bhatia@email.com|East Midlands|13/04/2023|17/04/2023|Monitor Arm|Accessories|3|£54.99|£164.97|Yes|Sarah Okafor|Delivered|4
+ORD032|Thomas Bergmann|t.bergmann@email.com|London|14/04/2023|16/04/2023|Mechanical Keyboard|Peripherals|1|£89.99|£89.99|No|James Thornton|Delivered|
+ORD033|Chioma Eze|chioma.eze@email.com|South East|15/04/2023|19/04/2023|Wireless Keyboard|Peripherals|2|£29.99|£59.98|No|Marcus Reid|Delivered|5
+ORD034|James Fletcher|james.fletcher@email.com|North West|15/04/2023|17/04/2023|Noise Cancelling Headphones|Audio|1|£149.99|£149.99|No|Sarah Okafor|Delivered|4
+ORD035|Olumide Adebayo|o.adebayo@email.com|Yorkshire|2023-04-16|2023-04-20|Ergonomic Mouse|Peripherals|2|£39.99|£79.98|Yes|James Thornton|Delivered|3
+ORD036|Grace Nakamura|grace.n@email.com|South West|17/04/2023|21/04/2023|Desk Lamp LED|Accessories|1|£19.99|£19.99|No|Marcus Reid|Delivered|4
+ORD037|Callum MacLeod|c.macleod@email.com|Scotland|18/04/2023|22/04/2023|USB-C Hub|Peripherals|4|£44.99|£179.96|No|Sarah Okafor|Delivered|5
+ORD038|Isabela Carvalho|i.carvalho@email.com|London|19/04/2023|23/04/2023|Laptop Stand|Accessories|1|24.99|£24.99|No|James Thornton|Delivered|3
+ORD039|Nadia Al-Amin|nadia.alamin@email.com|North West|20/04/2023|24/04/2023|Webcam HD|Peripherals|3|£79.99|£239.97|Yes|Marcus Reid|Delivered|4
+ORD040|customer_name|customer_email|customer_region|order_date|dispatch_date|product_name|product_category|quantity|unit_price|total_value|discount_applied|sales_rep|delivery_status|customer_rating
