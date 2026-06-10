@@ -1,0 +1,601 @@
+app_id,category,monthly_active_users,ln_mau,app_rating,num_reviews,price,is_free,months_since_update,size_group
+APP0001,Productivity,473713,13.068,3.1,10401,0.0,True,4,"Large
+(>100K)"
+APP0002,Education,166474,12.023,2.2,5983,9.99,False,3,"Large
+(>100K)"
+APP0003,Health & Fitness,5000000,15.425,3.4,219330,1.99,False,2,"Large
+(>100K)"
+APP0004,Gaming,1144958,13.951,3.0,93130,0.0,True,13,"Large
+(>100K)"
+APP0005,Social Media,21211,9.962,1.9,18590,0.0,True,0,"Medium
+(10K–100K)"
+APP0006,Social Media,585183,13.28,3.0,12403,0.0,True,6,"Large
+(>100K)"
+APP0007,Social Media,163950,12.007,3.2,48389,0.99,False,19,"Large
+(>100K)"
+APP0008,Education,1589054,14.279,3.2,70695,0.99,False,4,"Large
+(>100K)"
+APP0009,Gaming,134755,11.811,2.9,11963,0.99,False,16,"Large
+(>100K)"
+APP0010,Health & Fitness,372463,12.828,2.6,64350,0.0,True,0,"Large
+(>100K)"
+APP0011,Social Media,943621,13.757,3.7,15657,1.99,False,3,"Large
+(>100K)"
+APP0012,Education,1621128,14.299,4.3,146942,0.0,True,1,"Large
+(>100K)"
+APP0013,Health & Fitness,73097,11.2,1.4,9503,0.0,True,7,"Medium
+(10K–100K)"
+APP0014,Social Media,267867,12.498,2.4,39717,0.0,True,23,"Large
+(>100K)"
+APP0015,Social Media,216984,12.288,3.2,26293,0.0,True,1,"Large
+(>100K)"
+APP0016,Social Media,166043,12.02,2.7,285604,0.0,True,6,"Large
+(>100K)"
+APP0017,Productivity,5000000,15.425,4.0,106369,0.0,True,1,"Large
+(>100K)"
+APP0018,Gaming,812176,13.607,2.7,28248,0.0,True,4,"Large
+(>100K)"
+APP0019,Productivity,66747,11.109,2.8,3426,0.0,True,3,"Medium
+(10K–100K)"
+APP0020,Productivity,1752918,14.377,3.3,50759,0.0,True,21,"Large
+(>100K)"
+APP0021,Gaming,5000000,15.425,4.1,106414,0.0,True,5,"Large
+(>100K)"
+APP0022,Social Media,2081705,14.549,3.6,472492,0.0,True,2,"Large
+(>100K)"
+APP0023,Productivity,45294,10.721,2.8,29183,0.0,True,0,"Medium
+(10K–100K)"
+APP0024,Productivity,213982,12.274,2.8,9265,0.0,True,0,"Large
+(>100K)"
+APP0025,Gaming,2959014,14.9,3.1,55351,0.0,True,1,"Large
+(>100K)"
+APP0026,Health & Fitness,153046,11.938,2.9,24747,0.0,True,1,"Large
+(>100K)"
+APP0027,Social Media,860896,13.666,3.4,28851,0.0,True,11,"Large
+(>100K)"
+APP0028,Gaming,1414025,14.162,3.0,177918,0.0,True,4,"Large
+(>100K)"
+APP0029,Gaming,110150,11.61,2.8,13782,0.0,True,4,"Large
+(>100K)"
+APP0030,Social Media,404623,12.911,4.2,4962,4.99,False,0,"Large
+(>100K)"
+APP0031,Gaming,3422,8.138,2.2,4304,0.0,True,11,"Small
+(<10K users)"
+APP0032,Social Media,95169,11.463,2.6,82932,0.0,True,7,"Medium
+(10K–100K)"
+APP0033,Social Media,302896,12.621,3.7,11632,0.0,True,0,"Large
+(>100K)"
+APP0034,Education,68072,11.128,2.5,4616,0.0,True,7,"Medium
+(10K–100K)"
+APP0035,Education,5000000,15.425,2.5,322222,0.0,True,4,"Large
+(>100K)"
+APP0036,Health & Fitness,51781,10.855,2.2,8823,0.0,True,0,"Medium
+(10K–100K)"
+APP0037,Productivity,228646,12.34,2.0,42710,0.0,True,3,"Large
+(>100K)"
+APP0038,Social Media,538267,13.196,3.0,428966,0.0,True,3,"Large
+(>100K)"
+APP0039,Gaming,3843561,15.162,3.5,149820,0.0,True,1,"Large
+(>100K)"
+APP0040,Productivity,51339,10.846,3.4,2250,0.99,False,17,"Medium
+(10K–100K)"
+APP0041,Social Media,2532571,14.745,3.6,25352,9.99,False,11,"Large
+(>100K)"
+APP0042,Gaming,449256,13.015,2.8,13837,4.99,False,6,"Large
+(>100K)"
+APP0043,Social Media,101492,11.528,3.2,9724,9.99,False,3,"Large
+(>100K)"
+APP0044,Education,884833,13.693,2.0,492866,0.0,True,3,"Large
+(>100K)"
+APP0045,Productivity,596353,13.299,3.4,22420,0.0,True,6,"Large
+(>100K)"
+APP0046,Gaming,179813,12.1,3.1,20916,0.0,True,4,"Large
+(>100K)"
+APP0047,Productivity,491247,13.105,2.4,35033,0.0,True,0,"Large
+(>100K)"
+APP0048,Gaming,248209,12.422,3.4,86136,2.99,False,4,"Large
+(>100K)"
+APP0049,Gaming,524539,13.17,3.1,500000,0.0,True,9,"Large
+(>100K)"
+APP0050,Social Media,1194449,13.993,3.2,38465,4.99,False,3,"Large
+(>100K)"
+APP0051,Education,4775576,15.379,4.0,122503,0.0,True,0,"Large
+(>100K)"
+APP0052,Health & Fitness,69097,11.143,4.1,26045,2.99,False,9,"Medium
+(10K–100K)"
+APP0053,Education,5000000,15.425,3.9,500000,0.0,True,1,"Large
+(>100K)"
+APP0054,Education,23667,10.072,2.6,28955,0.0,True,1,"Medium
+(10K–100K)"
+APP0055,Gaming,352329,12.772,2.8,55191,0.0,True,1,"Large
+(>100K)"
+APP0056,Education,1069258,13.882,2.9,43253,0.0,True,2,"Large
+(>100K)"
+APP0057,Social Media,674338,13.421,3.7,93524,0.0,True,8,"Large
+(>100K)"
+APP0058,Social Media,173850,12.066,2.4,58876,0.0,True,4,"Large
+(>100K)"
+APP0059,Social Media,323779,12.688,3.1,68516,0.99,False,1,"Large
+(>100K)"
+APP0060,Productivity,211186,12.26,2.7,33427,0.0,True,12,"Large
+(>100K)"
+APP0061,Productivity,182764,12.116,3.2,58265,0.0,True,12,"Large
+(>100K)"
+APP0062,Productivity,1582320,14.274,3.5,370525,0.0,True,12,"Large
+(>100K)"
+APP0063,Health & Fitness,755793,13.536,4.1,264873,2.99,False,1,"Large
+(>100K)"
+APP0064,Productivity,156472,11.961,2.6,31162,0.0,True,3,"Large
+(>100K)"
+APP0065,Productivity,1705552,14.349,3.3,79140,0.0,True,25,"Large
+(>100K)"
+APP0066,Gaming,701481,13.461,2.5,56659,0.0,True,8,"Large
+(>100K)"
+APP0067,Social Media,1497478,14.219,3.1,370735,0.0,True,0,"Large
+(>100K)"
+APP0068,Health & Fitness,1137613,13.944,3.7,26245,0.0,True,0,"Large
+(>100K)"
+APP0069,Social Media,127581,11.757,3.1,18913,0.0,True,3,"Large
+(>100K)"
+APP0070,Education,190942,12.16,2.3,10464,0.0,True,14,"Large
+(>100K)"
+APP0071,Health & Fitness,1357208,14.121,4.0,83386,1.99,False,4,"Large
+(>100K)"
+APP0072,Social Media,1105220,13.916,4.1,316977,0.0,True,4,"Large
+(>100K)"
+APP0073,Social Media,428757,12.969,3.4,40305,0.0,True,0,"Large
+(>100K)"
+APP0074,Health & Fitness,527545,13.176,4.3,39995,0.0,True,6,"Large
+(>100K)"
+APP0075,Health & Fitness,3007131,14.916,3.2,29773,4.99,False,10,"Large
+(>100K)"
+APP0076,Health & Fitness,182160,12.113,2.4,39561,0.0,True,2,"Large
+(>100K)"
+APP0077,Health & Fitness,1005148,13.821,2.4,137461,1.99,False,8,"Large
+(>100K)"
+APP0078,Social Media,326671,12.697,3.7,345681,0.0,True,20,"Large
+(>100K)"
+APP0079,Productivity,319169,12.673,3.5,17491,0.0,True,1,"Large
+(>100K)"
+APP0080,Social Media,2299414,14.648,3.5,159773,0.0,True,4,"Large
+(>100K)"
+APP0081,Education,1525945,14.238,3.5,119343,1.99,False,2,"Large
+(>100K)"
+APP0082,Gaming,1498933,14.22,2.5,500000,0.0,True,9,"Large
+(>100K)"
+APP0083,Productivity,3135246,14.958,5.0,140395,1.99,False,5,"Large
+(>100K)"
+APP0084,Social Media,456573,13.032,3.2,47100,0.99,False,6,"Large
+(>100K)"
+APP0085,Productivity,1230497,14.023,3.4,154479,0.0,True,9,"Large
+(>100K)"
+APP0086,Productivity,277784,12.535,3.5,28328,0.0,True,3,"Large
+(>100K)"
+APP0087,Health & Fitness,719455,13.486,3.5,28375,0.0,True,14,"Large
+(>100K)"
+APP0088,Gaming,363954,12.805,3.0,35480,0.0,True,4,"Large
+(>100K)"
+APP0089,Education,511700,13.145,2.8,133887,4.99,False,1,"Large
+(>100K)"
+APP0090,Gaming,1080285,13.893,3.3,19582,1.99,False,7,"Large
+(>100K)"
+APP0091,Social Media,129659,11.773,3.7,14439,0.0,True,9,"Large
+(>100K)"
+APP0092,Health & Fitness,5000000,15.425,4.6,98697,0.0,True,2,"Large
+(>100K)"
+APP0093,Health & Fitness,97828,11.491,3.7,41226,4.99,False,11,"Medium
+(10K–100K)"
+APP0094,Gaming,71590,11.179,2.1,1230,0.0,True,14,"Medium
+(10K–100K)"
+APP0095,Health & Fitness,2513448,14.737,3.1,67442,9.99,False,1,"Large
+(>100K)"
+APP0096,Gaming,1450609,14.187,3.1,133605,0.0,True,24,"Large
+(>100K)"
+APP0097,Gaming,1128251,13.936,3.2,454781,0.0,True,0,"Large
+(>100K)"
+APP0098,Productivity,1135425,13.943,4.0,64544,0.0,True,1,"Large
+(>100K)"
+APP0099,Social Media,434360,12.982,2.2,16631,0.0,True,1,"Large
+(>100K)"
+APP0100,Social Media,115164,11.654,3.5,107010,0.0,True,13,"Large
+(>100K)"
+APP0101,Social Media,495690,13.114,3.1,6331,0.0,True,6,"Large
+(>100K)"
+APP0102,Gaming,160212,11.984,2.5,1041,0.0,True,0,"Large
+(>100K)"
+APP0103,Productivity,1910125,14.463,3.0,179541,4.99,False,3,"Large
+(>100K)"
+APP0104,Gaming,354837,12.779,2.0,15079,0.99,False,5,"Large
+(>100K)"
+APP0105,Education,128252,11.762,3.2,3582,0.0,True,0,"Large
+(>100K)"
+APP0106,Social Media,273189,12.518,2.8,52279,0.0,True,12,"Large
+(>100K)"
+APP0107,Productivity,821919,13.619,2.6,72263,0.0,True,9,"Large
+(>100K)"
+APP0108,Health & Fitness,189930,12.154,2.3,8489,0.0,True,4,"Large
+(>100K)"
+APP0109,Social Media,128884,11.767,2.5,2635,0.0,True,20,"Large
+(>100K)"
+APP0110,Social Media,637641,13.366,4.2,125413,0.0,True,3,"Large
+(>100K)"
+APP0111,Productivity,638865,13.367,3.0,96201,0.0,True,24,"Large
+(>100K)"
+APP0112,Social Media,206816,12.24,2.1,15877,0.0,True,6,"Large
+(>100K)"
+APP0113,Education,218260,12.293,2.8,171222,0.0,True,6,"Large
+(>100K)"
+APP0114,Health & Fitness,626607,13.348,3.2,12020,0.0,True,1,"Large
+(>100K)"
+APP0115,Gaming,50406,10.828,1.0,926,9.99,False,12,"Medium
+(10K–100K)"
+APP0116,Education,53573,10.889,2.5,2645,0.0,True,3,"Medium
+(10K–100K)"
+APP0117,Health & Fitness,150592,11.922,2.9,13136,0.0,True,1,"Large
+(>100K)"
+APP0118,Social Media,321203,12.68,3.4,34059,0.0,True,0,"Large
+(>100K)"
+APP0119,Education,705287,13.466,4.2,35724,0.0,True,4,"Large
+(>100K)"
+APP0120,Gaming,4045170,15.213,4.1,294458,4.99,False,4,"Large
+(>100K)"
+APP0121,Health & Fitness,1601561,14.286,3.3,20482,0.0,True,7,"Large
+(>100K)"
+APP0122,Education,348046,12.76,2.4,153367,1.99,False,13,"Large
+(>100K)"
+APP0123,Productivity,429972,12.971,4.7,29103,0.0,True,0,"Large
+(>100K)"
+APP0124,Social Media,98341,11.496,2.7,37711,0.0,True,7,"Medium
+(10K–100K)"
+APP0125,Social Media,430296,12.972,3.0,48487,9.99,False,1,"Large
+(>100K)"
+APP0126,Productivity,286935,12.567,3.0,40203,0.0,True,11,"Large
+(>100K)"
+APP0127,Health & Fitness,717894,13.484,3.5,95892,0.0,True,10,"Large
+(>100K)"
+APP0128,Education,127919,11.759,2.9,20838,0.0,True,4,"Large
+(>100K)"
+APP0129,Social Media,964166,13.779,2.9,132519,0.0,True,7,"Large
+(>100K)"
+APP0130,Gaming,4408779,15.299,3.2,500000,2.99,False,2,"Large
+(>100K)"
+APP0131,Productivity,375817,12.837,3.2,36508,0.0,True,3,"Large
+(>100K)"
+APP0132,Social Media,808202,13.603,2.9,124599,0.0,True,10,"Large
+(>100K)"
+APP0133,Social Media,1245709,14.035,3.1,67540,0.0,True,3,"Large
+(>100K)"
+APP0134,Productivity,242357,12.398,3.0,114310,0.0,True,2,"Large
+(>100K)"
+APP0135,Education,619172,13.336,3.1,19096,0.0,True,4,"Large
+(>100K)"
+APP0136,Productivity,450849,13.019,3.9,289595,0.0,True,10,"Large
+(>100K)"
+APP0137,Gaming,512222,13.147,1.5,35207,0.0,True,2,"Large
+(>100K)"
+APP0138,Health & Fitness,138757,11.84,3.6,2334,0.99,False,1,"Large
+(>100K)"
+APP0139,Productivity,458981,13.037,3.9,39463,0.0,True,7,"Large
+(>100K)"
+APP0140,Education,933781,13.747,2.1,26379,0.0,True,10,"Large
+(>100K)"
+APP0141,Education,3900890,15.177,3.5,500000,2.99,False,0,"Large
+(>100K)"
+APP0142,Productivity,1865251,14.439,3.4,47475,0.0,True,1,"Large
+(>100K)"
+APP0143,Gaming,5000000,15.425,2.8,133858,0.0,True,0,"Large
+(>100K)"
+APP0144,Productivity,139941,11.849,2.5,1355,0.0,True,2,"Large
+(>100K)"
+APP0145,Productivity,1637172,14.308,2.9,54394,0.0,True,3,"Large
+(>100K)"
+APP0146,Social Media,582458,13.275,4.0,2233,0.0,True,8,"Large
+(>100K)"
+APP0147,Gaming,5000000,15.425,4.1,34175,2.99,False,6,"Large
+(>100K)"
+APP0148,Gaming,131603,11.788,3.4,31024,0.0,True,5,"Large
+(>100K)"
+APP0149,Social Media,125544,11.74,3.1,30800,0.0,True,2,"Large
+(>100K)"
+APP0150,Productivity,180035,12.101,2.4,26669,9.99,False,11,"Large
+(>100K)"
+APP0151,Education,18290,9.814,2.0,805,0.0,True,3,"Medium
+(10K–100K)"
+APP0152,Social Media,201061,12.211,3.0,16511,0.0,True,23,"Large
+(>100K)"
+APP0153,Social Media,141676,11.861,2.1,13157,0.0,True,6,"Large
+(>100K)"
+APP0154,Gaming,554371,13.226,3.5,9802,0.99,False,0,"Large
+(>100K)"
+APP0155,Education,738690,13.513,3.0,300795,0.0,True,6,"Large
+(>100K)"
+APP0156,Social Media,5000000,15.425,3.6,500000,0.0,True,2,"Large
+(>100K)"
+APP0157,Gaming,1840661,14.426,3.7,78853,0.0,True,6,"Large
+(>100K)"
+APP0158,Health & Fitness,186212,12.135,3.3,16983,0.0,True,0,"Large
+(>100K)"
+APP0159,Social Media,114964,11.652,2.6,14356,0.0,True,1,"Large
+(>100K)"
+APP0160,Health & Fitness,925305,13.738,4.0,5116,0.0,True,11,"Large
+(>100K)"
+APP0161,Productivity,61062,11.02,2.1,5009,1.99,False,1,"Medium
+(10K–100K)"
+APP0162,Gaming,5000000,15.425,3.9,100868,0.0,True,10,"Large
+(>100K)"
+APP0163,Gaming,2595163,14.769,3.7,40675,0.0,True,1,"Large
+(>100K)"
+APP0164,Gaming,218870,12.296,2.6,13355,0.99,False,6,"Large
+(>100K)"
+APP0165,Social Media,33870,10.43,2.6,36368,1.99,False,7,"Medium
+(10K–100K)"
+APP0166,Health & Fitness,3371298,15.031,3.1,359927,0.0,True,4,"Large
+(>100K)"
+APP0167,Productivity,372573,12.828,3.7,14431,0.0,True,2,"Large
+(>100K)"
+APP0168,Social Media,2832653,14.857,3.5,288508,0.0,True,1,"Large
+(>100K)"
+APP0169,Social Media,40471,10.608,2.2,26001,2.99,False,0,"Medium
+(10K–100K)"
+APP0170,Gaming,180040,12.101,3.1,48547,2.99,False,2,"Large
+(>100K)"
+APP0171,Gaming,445906,13.008,2.6,35519,0.0,True,6,"Large
+(>100K)"
+APP0172,Social Media,474715,13.07,2.3,15995,9.99,False,16,"Large
+(>100K)"
+APP0173,Gaming,225235,12.325,1.8,44257,0.0,True,12,"Large
+(>100K)"
+APP0174,Social Media,1126104,13.934,3.6,111257,0.0,True,8,"Large
+(>100K)"
+APP0175,Gaming,89194,11.399,1.9,26717,0.0,True,9,"Medium
+(10K–100K)"
+APP0176,Social Media,357335,12.786,4.0,59358,4.99,False,6,"Large
+(>100K)"
+APP0177,Gaming,529899,13.18,1.9,133761,0.0,True,1,"Large
+(>100K)"
+APP0178,Productivity,957095,13.772,4.2,32049,1.99,False,14,"Large
+(>100K)"
+APP0179,Education,1286482,14.067,3.4,375048,2.99,False,6,"Large
+(>100K)"
+APP0180,Social Media,81882,11.313,2.5,10802,1.99,False,4,"Medium
+(10K–100K)"
+APP0181,Productivity,44303,10.699,2.3,62903,0.0,True,0,"Medium
+(10K–100K)"
+APP0182,Social Media,3007185,14.917,3.8,66581,0.0,True,3,"Large
+(>100K)"
+APP0183,Education,728301,13.498,3.3,393144,0.0,True,3,"Large
+(>100K)"
+APP0184,Education,143957,11.877,3.4,16971,0.0,True,11,"Large
+(>100K)"
+APP0185,Productivity,4532245,15.327,3.9,96730,0.0,True,4,"Large
+(>100K)"
+APP0186,Gaming,526239,13.174,3.1,21123,4.99,False,2,"Large
+(>100K)"
+APP0187,Health & Fitness,2594607,14.769,3.3,92110,0.0,True,22,"Large
+(>100K)"
+APP0188,Gaming,489567,13.101,3.0,59279,0.0,True,0,"Large
+(>100K)"
+APP0189,Gaming,5000000,15.425,3.7,428206,0.0,True,3,"Large
+(>100K)"
+APP0190,Social Media,5000000,15.425,2.8,114865,0.0,True,0,"Large
+(>100K)"
+APP0191,Social Media,304538,12.627,2.3,23671,0.0,True,8,"Large
+(>100K)"
+APP0192,Education,1899984,14.457,3.8,500000,0.0,True,15,"Large
+(>100K)"
+APP0193,Education,1164804,13.968,3.5,500000,2.99,False,1,"Large
+(>100K)"
+APP0194,Gaming,3446767,15.053,3.4,286629,0.0,True,11,"Large
+(>100K)"
+APP0195,Productivity,104048,11.553,2.9,10804,1.99,False,2,"Large
+(>100K)"
+APP0196,Productivity,1238085,14.029,3.5,86448,4.99,False,14,"Large
+(>100K)"
+APP0197,Health & Fitness,2164363,14.588,3.3,244343,0.0,True,8,"Large
+(>100K)"
+APP0198,Education,31630,10.362,2.0,1166,1.99,False,9,"Medium
+(10K–100K)"
+APP0199,Education,74990,11.225,2.8,5832,0.0,True,0,"Medium
+(10K–100K)"
+APP0200,Health & Fitness,20767,9.941,1.8,383,2.99,False,19,"Medium
+(10K–100K)"
+APP0201,Gaming,295342,12.596,3.0,38398,0.0,True,7,"Large
+(>100K)"
+APP0202,Social Media,1297971,14.076,2.4,169005,4.99,False,2,"Large
+(>100K)"
+APP0203,Social Media,4212368,15.254,4.0,111636,2.99,False,10,"Large
+(>100K)"
+APP0204,Education,494420,13.111,3.5,237446,0.99,False,1,"Large
+(>100K)"
+APP0205,Gaming,5000000,15.425,3.6,52524,2.99,False,12,"Large
+(>100K)"
+APP0206,Social Media,55817,10.93,3.1,1082,0.0,True,0,"Medium
+(10K–100K)"
+APP0207,Social Media,34369,10.445,3.4,5570,0.0,True,7,"Medium
+(10K–100K)"
+APP0208,Gaming,407044,12.917,3.5,107997,0.0,True,4,"Large
+(>100K)"
+APP0209,Social Media,787090,13.576,2.1,393010,0.0,True,0,"Large
+(>100K)"
+APP0210,Social Media,421239,12.951,2.4,18216,0.0,True,1,"Large
+(>100K)"
+APP0211,Gaming,19907,9.899,1.9,10031,0.0,True,0,"Medium
+(10K–100K)"
+APP0212,Gaming,387054,12.866,2.8,28193,9.99,False,3,"Large
+(>100K)"
+APP0213,Gaming,62523,11.043,2.8,5582,0.0,True,2,"Medium
+(10K–100K)"
+APP0214,Social Media,1208038,14.005,3.0,211927,0.99,False,5,"Large
+(>100K)"
+APP0215,Health & Fitness,766735,13.55,3.5,111603,0.0,True,2,"Large
+(>100K)"
+APP0216,Social Media,108031,11.59,2.2,1604,1.99,False,2,"Large
+(>100K)"
+APP0217,Productivity,204679,12.229,2.7,104318,4.99,False,8,"Large
+(>100K)"
+APP0218,Health & Fitness,90325,11.411,2.0,48293,0.0,True,0,"Medium
+(10K–100K)"
+APP0219,Gaming,402713,12.906,2.3,14387,0.0,True,13,"Large
+(>100K)"
+APP0220,Health & Fitness,1853735,14.433,2.8,166231,4.99,False,11,"Large
+(>100K)"
+APP0221,Gaming,100852,11.521,2.1,18214,0.0,True,6,"Large
+(>100K)"
+APP0222,Gaming,942291,13.756,3.6,82261,0.0,True,5,"Large
+(>100K)"
+APP0223,Social Media,199708,12.205,2.1,8985,0.0,True,13,"Large
+(>100K)"
+APP0224,Productivity,134684,11.811,4.4,5668,0.0,True,1,"Large
+(>100K)"
+APP0225,Productivity,376794,12.839,3.5,28026,0.0,True,0,"Large
+(>100K)"
+APP0226,Social Media,93632,11.447,2.9,38753,0.0,True,1,"Medium
+(10K–100K)"
+APP0227,Education,192822,12.17,2.4,32465,0.0,True,9,"Large
+(>100K)"
+APP0228,Productivity,73363,11.203,3.2,5003,0.0,True,0,"Medium
+(10K–100K)"
+APP0229,Education,5000000,15.425,3.4,500000,4.99,False,5,"Large
+(>100K)"
+APP0230,Gaming,466444,13.053,2.7,1123,0.0,True,32,"Large
+(>100K)"
+APP0231,Health & Fitness,154880,11.95,4.3,56322,4.99,False,11,"Large
+(>100K)"
+APP0232,Gaming,609850,13.321,3.0,5266,0.0,True,4,"Large
+(>100K)"
+APP0233,Gaming,373811,12.832,3.7,18588,0.0,True,0,"Large
+(>100K)"
+APP0234,Gaming,317599,12.669,2.6,6576,0.0,True,10,"Large
+(>100K)"
+APP0235,Social Media,1111532,13.921,3.3,14521,0.0,True,5,"Large
+(>100K)"
+APP0236,Health & Fitness,1378162,14.136,4.5,328404,0.0,True,0,"Large
+(>100K)"
+APP0237,Productivity,199635,12.204,2.7,9918,0.0,True,0,"Large
+(>100K)"
+APP0238,Social Media,186516,12.136,3.7,24954,0.0,True,14,"Large
+(>100K)"
+APP0239,Gaming,292851,12.587,3.2,22328,0.0,True,6,"Large
+(>100K)"
+APP0240,Social Media,14004,9.547,1.9,3678,0.0,True,10,"Medium
+(10K–100K)"
+APP0241,Education,45579,10.727,2.8,5848,0.0,True,12,"Medium
+(10K–100K)"
+APP0242,Education,3437693,15.05,4.2,36339,0.0,True,5,"Large
+(>100K)"
+APP0243,Education,5000000,15.425,4.0,500000,2.99,False,4,"Large
+(>100K)"
+APP0244,Productivity,304505,12.626,2.3,13475,0.0,True,3,"Large
+(>100K)"
+APP0245,Social Media,1050561,13.865,2.9,10137,0.0,True,2,"Large
+(>100K)"
+APP0246,Education,705650,13.467,3.1,28559,0.99,False,3,"Large
+(>100K)"
+APP0247,Productivity,5000000,15.425,3.7,500000,0.0,True,8,"Large
+(>100K)"
+APP0248,Education,2372280,14.679,3.9,349324,0.0,True,5,"Large
+(>100K)"
+APP0249,Education,365171,12.808,3.1,18547,2.99,False,13,"Large
+(>100K)"
+APP0250,Education,105523,11.567,2.0,6865,0.0,True,3,"Large
+(>100K)"
+APP0251,Productivity,39748,10.59,2.7,3249,0.0,True,5,"Medium
+(10K–100K)"
+APP0252,Productivity,600306,13.305,3.5,500000,0.0,True,5,"Large
+(>100K)"
+APP0253,Education,142268,11.865,3.1,20966,0.0,True,5,"Large
+(>100K)"
+APP0254,Productivity,52397,10.867,3.2,9989,0.0,True,7,"Medium
+(10K–100K)"
+APP0255,Social Media,167735,12.03,3.3,52075,0.0,True,1,"Large
+(>100K)"
+APP0256,Gaming,87349,11.378,2.8,11952,0.0,True,4,"Medium
+(10K–100K)"
+APP0257,Education,5000000,15.425,3.7,167561,0.0,True,0,"Large
+(>100K)"
+APP0258,Gaming,1660218,14.322,2.4,74783,9.99,False,2,"Large
+(>100K)"
+APP0259,Gaming,437154,12.988,3.2,29867,4.99,False,4,"Large
+(>100K)"
+APP0260,Social Media,4073105,15.22,3.7,185584,0.0,True,6,"Large
+(>100K)"
+APP0261,Gaming,496854,13.116,3.0,86335,0.0,True,18,"Large
+(>100K)"
+APP0262,Education,121549,11.708,2.1,12441,0.0,True,5,"Large
+(>100K)"
+APP0263,Social Media,4345650,15.285,3.0,492336,0.0,True,8,"Large
+(>100K)"
+APP0264,Gaming,992879,13.808,3.6,56944,0.0,True,4,"Large
+(>100K)"
+APP0265,Education,93351,11.444,2.6,10401,0.0,True,6,"Medium
+(10K–100K)"
+APP0266,Health & Fitness,332532,12.714,3.6,2377,4.99,False,0,"Large
+(>100K)"
+APP0267,Gaming,118963,11.687,2.8,34504,0.0,True,1,"Large
+(>100K)"
+APP0268,Health & Fitness,55592,10.926,2.8,9475,0.0,True,2,"Medium
+(10K–100K)"
+APP0269,Productivity,1774920,14.389,4.1,330719,0.0,True,3,"Large
+(>100K)"
+APP0270,Productivity,5000000,15.425,3.6,7075,0.0,True,0,"Large
+(>100K)"
+APP0271,Health & Fitness,54292,10.902,2.8,75188,4.99,False,0,"Medium
+(10K–100K)"
+APP0272,Health & Fitness,1029366,13.844,3.2,54614,0.99,False,1,"Large
+(>100K)"
+APP0273,Education,166714,12.024,2.5,56899,4.99,False,21,"Large
+(>100K)"
+APP0274,Education,213056,12.269,2.8,5258,0.0,True,2,"Large
+(>100K)"
+APP0275,Gaming,181935,12.111,2.9,33673,0.0,True,3,"Large
+(>100K)"
+APP0276,Gaming,121056,11.704,2.5,3291,0.0,True,1,"Large
+(>100K)"
+APP0277,Health & Fitness,475814,13.073,4.0,16476,0.0,True,5,"Large
+(>100K)"
+APP0278,Gaming,127207,11.754,2.2,120534,0.0,True,1,"Large
+(>100K)"
+APP0279,Health & Fitness,663766,13.406,3.3,36160,4.99,False,1,"Large
+(>100K)"
+APP0280,Health & Fitness,410299,12.925,3.0,40160,0.0,True,4,"Large
+(>100K)"
+APP0281,Education,309148,12.642,3.8,70076,0.0,True,0,"Large
+(>100K)"
+APP0282,Productivity,113397,11.639,2.9,20045,0.0,True,0,"Large
+(>100K)"
+APP0283,Productivity,186249,12.135,3.6,19700,0.0,True,1,"Large
+(>100K)"
+APP0284,Social Media,1373794,14.133,2.5,126048,0.0,True,0,"Large
+(>100K)"
+APP0285,Gaming,937878,13.751,3.3,500000,4.99,False,0,"Large
+(>100K)"
+APP0286,Social Media,102095,11.534,3.2,9488,1.99,False,2,"Large
+(>100K)"
+APP0287,Gaming,513496,13.149,2.9,47123,1.99,False,9,"Large
+(>100K)"
+APP0288,Gaming,1365567,14.127,3.8,285629,0.0,True,5,"Large
+(>100K)"
+APP0289,Productivity,36166,10.496,2.3,16702,0.0,True,4,"Medium
+(10K–100K)"
+APP0290,Gaming,999529,13.815,3.9,262096,0.0,True,2,"Large
+(>100K)"
+APP0291,Social Media,163744,12.006,4.0,31930,0.0,True,16,"Large
+(>100K)"
+APP0292,Social Media,1041214,13.856,3.0,16532,9.99,False,3,"Large
+(>100K)"
+APP0293,Health & Fitness,140802,11.855,2.8,93358,0.0,True,0,"Large
+(>100K)"
+APP0294,Productivity,29515,10.293,3.3,951,0.0,True,5,"Medium
+(10K–100K)"
+APP0295,Social Media,38510,10.559,3.4,6701,0.0,True,0,"Medium
+(10K–100K)"
+APP0296,Gaming,475502,13.072,2.6,14080,0.0,True,2,"Large
+(>100K)"
+APP0297,Health & Fitness,653164,13.39,3.0,41551,1.99,False,4,"Large
+(>100K)"
+APP0298,Social Media,113951,11.644,2.5,16470,0.0,True,12,"Large
+(>100K)"
+APP0299,Gaming,1153012,13.958,2.5,103978,0.0,True,4,"Large
+(>100K)"
+APP0300,Social Media,36596,10.508,1.9,7423,0.0,True,7,"Medium
+(10K–100K)"
